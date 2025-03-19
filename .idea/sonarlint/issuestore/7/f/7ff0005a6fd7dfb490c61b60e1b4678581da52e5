@@ -1,0 +1,10 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(ѓ…Ѓпэяяяя8гХЯлЪ2
+F	java:S106"+Replace this use of System.out by a logger.(›№а%8гХЯлЪ2
+G	java:S106"+Replace this use of System.out by a logger.(­иэр8гХЯлЪ2
+L	java:S106"+Replace this use of System.out by a logger.(‡¦•Уыяяяя8гХЯлЪ2
+W
+java:S4719":Replace Charset.forName() call with StandardCharsets.UTF_8(іЧ „8дХЯлЪ2
+L	java:S106"+Replace this use of System.out by a logger.(‡фєХюяяяя8дХЯлЪ2
+L	java:S106 "+Replace this use of System.out by a logger.(цДЮєщяяяя8х‚блЪ2
+G	java:S106$"+Replace this use of System.out by a logger.(ѕщїр8ћхблЪ2
