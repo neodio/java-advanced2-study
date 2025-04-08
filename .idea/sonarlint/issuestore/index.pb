@@ -24,3 +24,23 @@ U
 %src/io/start/ByteArrayStreamMain.java,d/c/dc424f4f118a2590918c574bc2a6acf81c86be93
 Q
 !src/io/start/PrintStreamMain.java,e/2/e23815b6826ecc10e1598518992f7d16139f5421
+R
+"src/io/buffered/BufferedConst.java,c/d/cd193f6ce008c1156ddff75633ef771fc18e0db7
+Q
+!src/io/buffered/CreateFileV1.java,5/e/5e860d9786046466a272862c3380578e11ae5ec6
+A
+temp/buffered.dat,d/8/d8b5bde40d2d63de225a980b33321d7e14138d49
+O
+src/io/buffered/ReadFileV1.java,c/7/c7d4d9e2794634429acead29745626f368206bee
+O
+src/io/buffered/ReadFileV2.java,9/8/98e63c37e7fef46fade72efdbdb306f607042e68
+O
+src/io/buffered/ReadFileV3.java,8/f/8ff8debd21cd8a31979ab90c256f7c1ea0a3517b
+Q
+!src/io/buffered/CreateFileV4.java,6/b/6b105ce74eb7af5e1185fbbe8c622c608d1e7965
+O
+src/io/buffered/ReadFileV4.java,9/9/993f2ecd069bb635f5040202e246a76731374070
+Q
+!src/io/buffered/CreateFileV2.java,1/6/1653ae2353b1678fd2c45e89b8b170645c151284
+Q
+!src/io/buffered/CreateFileV3.java,2/e/2ebb0ba74cf657fcf124f29a182c3c5e92a49314
