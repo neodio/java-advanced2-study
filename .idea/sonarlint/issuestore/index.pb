@@ -98,3 +98,11 @@ T
 $src/io/file/copy/FileCopyMainV3.java,9/e/9e720906d0390dd17d24a979cd790c94924f16c3
 T
 $src/io/file/copy/FileCopyMainV2.java,a/a/aa9cb5c661c51f2098279a8378dbd8dae45f0d29
+P
+ src/network/tcp/v1/ClientV1.java,1/4/1436f2b6ef05815b1fefd1080d72f5eddf1462e4
+F
+src/util/MyLogger.java,5/b/5b3ac9248f799dcf2c8351d0902980d4a10cf6e3
+P
+ src/network/tcp/v1/ServerV1.java,f/2/f258193c22e39327fbef206731964728f2c82ed0
+W
+'src/network/tcp/v1/InetAddressMain.java,0/c/0cb5ced8b0df7401e6b2b506707f81308dc8020e
