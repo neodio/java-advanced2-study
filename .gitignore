@@ -16,6 +16,8 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
+temp/
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
