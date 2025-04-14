@@ -106,3 +106,29 @@ P
  src/network/tcp/v1/ServerV1.java,f/2/f258193c22e39327fbef206731964728f2c82ed0
 W
 'src/network/tcp/v1/InetAddressMain.java,0/c/0cb5ced8b0df7401e6b2b506707f81308dc8020e
+P
+ src/network/tcp/v2/ClientV2.java,5/4/54c0ff564d5f605c9470a040f3dfea012bae6075
+P
+ src/network/tcp/v2/ServerV2.java,3/0/30e1ed7b5a87c25c9b66ade79cb16764994b2b1b
+P
+ src/network/tcp/v3/ClientV3.java,c/8/c81e8dcf551ca7fa213238bee7fd7d52117b7037
+Q
+!src/network/tcp/v3/SessionV3.java,8/e/8eb4d984e123e8ee1edc178099c450f6f909ee71
+P
+ src/network/tcp/v3/ServerV3.java,5/2/52de9704c8d97762a4078ce8a03342b83ffdbfcd
+`
+0src/network/tcp/autocloseable/CallException.java,4/7/47791f2148148617758e3bb4310f3cf7bf4f328b
+a
+1src/network/tcp/autocloseable/CloseException.java,c/6/c6aa08b15b4b0ddeeb1596ebbec020ab99d1935b
+f
+6src/network/tcp/autocloseable/ResourceCloseMainV1.java,1/c/1c7240b619102adf17ed5acaf5a458921114d7f2
+]
+-src/network/tcp/autocloseable/ResourceV1.java,a/f/afe625184a3a28980769fca903b3d533ab79ce63
+f
+6src/network/tcp/autocloseable/ResourceCloseMainV2.java,f/b/fbd4b88221e4c5af1a5c8036e3c6509f6866595b
+f
+6src/network/tcp/autocloseable/ResourceCloseMainV3.java,0/a/0a247e3e4baf2bf5179a006986dcd7942ba8aba9
+f
+6src/network/tcp/autocloseable/ResourceCloseMainV4.java,9/5/955c568abd61291a5f1d85904adfe7b5c828f380
+]
+-src/network/tcp/autocloseable/ResourceV2.java,a/d/ad8b2d3b13b5638cdb265f0f659aff0983b35c43
