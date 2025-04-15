@@ -132,3 +132,39 @@ f
 6src/network/tcp/autocloseable/ResourceCloseMainV4.java,9/5/955c568abd61291a5f1d85904adfe7b5c828f380
 ]
 -src/network/tcp/autocloseable/ResourceV2.java,a/d/ad8b2d3b13b5638cdb265f0f659aff0983b35c43
+T
+$src/network/tcp/SocketCloseUtil.java,d/9/d92acfd0606a3d4076ea55250548febebad71782
+P
+ src/network/tcp/v4/ClientV4.java,7/9/790f1da286accab30d7f2720bf6ad38636ec446e
+P
+ src/network/tcp/v4/ServerV4.java,b/2/b229df3e994dac1e37e8187be3b7055207cc99ce
+Q
+!src/network/tcp/v4/SessionV4.java,c/a/ca62acf072688d99235476cfd629f86171e2b62b
+P
+ src/network/tcp/v5/ServerV5.java,d/f/df77d50f0313a03dbf2cbcbf8ea3eb9e72f969c8
+P
+ src/network/tcp/v5/ClientV5.java,1/c/1cc611b1d5bfb608a9eead1d0d0906010ce28faa
+Q
+!src/network/tcp/v6/SessionV6.java,b/7/b7ed480326efa36f0566b256682928f3027bbbbc
+^
+.src/network/exception/connect/ConnectMain.java,9/e/9ee01c5a795884feeb13f400243ab071dc23884a
+f
+6src/network/exception/connect/ConnectTimeoutMain1.java,1/f/1fe18f48404b5b2a3f7925c164a704b9e65d3012
+f
+6src/network/exception/connect/ConnectTimeoutMain2.java,8/7/87bfd42911468841756441e7aee1d969c6567606
+b
+2src/network/exception/connect/SoTimeoutClient.java,7/1/710804eaf000afaf669467d4bc867436afd38b87
+b
+2src/network/exception/connect/SoTimeoutServer.java,4/3/433a85b22ebfa771235d38401adeb87e5d6c63f7
+i
+9src/network/exception/close/normal/NormalCloseClient.java,2/8/28754aa521c1e94ea2a87a7e89231085b9a36be0
+i
+9src/network/exception/close/normal/NormalCloseServer.java,c/a/ca607aced92873a44ecf288c2dc1a52c95aa864b
+g
+7src/network/exception/close/reset/ResetCloseClient.java,a/9/a955e1225b664bb9447319a3b95e379885bcd57f
+g
+7src/network/exception/close/reset/ResetCloseServer.java,3/c/3c7ba2ad923c951977660df75a0bc41e1ef6770e
+X
+(src/network/tcp/v6/SessionManagerV6.java,e/a/ea59f3f67e2a9a4d3a2c7aad429689858f59a4eb
+P
+ src/network/tcp/v6/ServerV6.java,6/0/601484ab722796bd8c7a21e8901d6f1ba1550c05
