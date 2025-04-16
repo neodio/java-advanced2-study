@@ -168,3 +168,29 @@ X
 (src/network/tcp/v6/SessionManagerV6.java,e/a/ea59f3f67e2a9a4d3a2c7aad429689858f59a4eb
 P
  src/network/tcp/v6/ServerV6.java,6/0/601484ab722796bd8c7a21e8901d6f1ba1550c05
+P
+ src/chat/client/ReadHandler.java,f/0/f0e4952738b1587db3fa6fe3978379fd83a22fc1
+K
+src/chat/client/Client.java,3/5/356f3e5838324048e56ef0bd9c615db1eb4134ee
+Q
+!src/chat/client/WriteHandler.java,7/3/73084e0905349e9a55e51c9d784c41785ded9c93
+S
+#src/chat/server/CommandManager.java,d/a/da9f431de13b009240202afc2373ea445dc1fffb
+U
+%src/chat/server/CommandManagerV1.java,3/5/35dc414913758b7006e82dfe8b6bf3c0ef7f08f6
+U
+%src/chat/server/CommandManagerV2.java,5/f/5f2bcf69c96c5b9338da7fde111748e7bdc9e9a5
+U
+%src/chat/server/CommandManagerV3.java,4/0/40fb4a4a1da5464ce9b006f3a977a56456bf18d0
+U
+%src/chat/server/CommandManagerV4.java,8/5/850385b853557c36c91d7a0776271f2bbe82f44c
+K
+src/chat/server/Server.java,b/5/b5eddd7ba537afaa7904afd15f76d65c15e6fdd6
+O
+src/chat/server/ServerMain.java,8/3/83e9473108cd65f1168d89dc5ea6a30f406fa3f3
+L
+src/chat/server/Session.java,4/b/4b7a9ceed86fa8420c6c63792a117c35faa9138d
+S
+#src/chat/server/SessionManager.java,7/e/7ed8b1d4c9d8f05796173816f550e218b93c6c72
+Z
+*src/chat/server/command/ChangeCommand.java,4/4/44faef09fa3b9f08b1fe979143cf297fbdbe1274
