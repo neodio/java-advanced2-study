@@ -292,3 +292,23 @@ W
 'src/annotation/java/DeprecatedMain.java,f/c/fc46aee92570927c382434b25522015b2f490c7d
 \
 ,src/annotation/java/SuppressWarningCase.java,7/0/70ef5ed2562e956d64b177aee214215f8d68f3b2
+b
+2src/was/httpserver/servlet/annotation/Mapping.java,1/5/15885f8b4c4982906c78fc13664cefbb62d9d761
+R
+"src/was/v7/SearchControllerV7.java,b/3/b390137b029cf491d7008ad94af3de24ba8d871f
+P
+ src/was/v7/SiteControllerV7.java,5/c/5c89e4692ad0fa5f12fe262a6cdf410c0f29669a
+L
+src/was/v7/ServerMainV7.java,8/5/857ee109f3ac142b53a4e608536c2784fe3fd277
+R
+"src/was/v8/SearchControllerV8.java,9/0/903bae988fee8f9c589773e39a5ada4520c7eb5a
+L
+src/was/v8/ServerMainV8.java,6/0/602840969f6ac642c69005d547b18af093f09d78
+P
+ src/was/v8/SiteControllerV8.java,5/3/53bbda6278ab3191c57effaea2c0733ddd04dc5a
+n
+>src/was/httpserver/servlet/annotation/AnnotationServletV3.java,6/a/6aa1b8251719090b008fae4d61dc21a36981dda7
+T
+$src/webservice/MemberController.java,d/6/d6300583e6722ce97f796a41efd611c6cb2d1a7a
+U
+%src/webservice/MemberServiceMain.java,3/8/38a4c15f09eb3f5eb84f7d00e52d7ce9ac0bfafd
