@@ -21,7 +21,7 @@ public class MemberServiceMain {
         ServletManager servletManager = new ServletManager();
         servletManager.add("/favicon.ico", new DiscardServlet());
         servletManager.setDefaultServlet(servlet);
-
+ 
         HttpServer server = new HttpServer(PORT, servletManager);
         server.start();
     }
