@@ -254,8 +254,6 @@ P
  src/was/v6/SiteControllerV6.java,3/d/3d04b47f8ad8bee0855c6d0ed687cdba4a0f69f6
 L
 src/was/v6/ServerMainV6.java,4/2/42b1a798d20e7386e7db0eb98c3e27233ce66ccf
-d
-4src/was/httpserver/reflection/ReflectionServlet.java,8/e/8e2622ca7f94334b268983bcd1adb0b4ce0208bf
 l
 <src/was/httpserver/servlet/reflection/ReflectionServlet.java,0/2/02717582c6db21472d8c7e6d53d8567d991afd5a
 Z
@@ -312,3 +310,5 @@ T
 $src/webservice/MemberController.java,d/6/d6300583e6722ce97f796a41efd611c6cb2d1a7a
 U
 %src/webservice/MemberServiceMain.java,3/8/38a4c15f09eb3f5eb84f7d00e52d7ce9ac0bfafd
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
